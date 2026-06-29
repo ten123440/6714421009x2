@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: 2.5D Sprite Action RPG",
+  "description": "An 8-direction 2.5D action game built with React and Three.js featuring sprite animations, power skills, potion gathering, dynamic enemies, a boss battle with warnings, and an RPG dialogue ending scene.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
